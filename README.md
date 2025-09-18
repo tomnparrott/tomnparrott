@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Tom Parrott 👋
 
-<!--
-**tomnparrott/tomnparrott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://avatars.githubusercontent.com/tomnparrott" width="120" alt="Tom Parrott profile picture" align="right" style="border-radius:50%;margin-left:20px;" />
 
-Here are some ideas to get you started:
+**Ambitious, driven and curious.**  
+Computer Science student at the University of London, specializing in **Artificial Intelligence** and **Machine Learning**. I love learning, building, and creating new things—and I'm always searching for opportunities to enrich my skills and experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Top Skills
+
+- **Languages:** Python, JavaScript, C++
+- **AI/ML Frameworks:** TensorFlow, PyTorch, NLTK, SciPy, spaCy
+- **Web:** Node.js, Express.js, Django
+
+---
+
+## 🌱 Currently Working On
+
+- **Bloomble:** My favorite project, combining my passion for AI/ML with full-stack development.
+- [Wedding Website](https://github.com/tomnparrott/weddingwebsite) – a personal project for a special occasion.
+- [TutorBloom](https://github.com/tomnparrott/tutorbloom) – an educational platform.
+- [ParrottDigital.com](https://github.com/tomnparrott/parrottdigital.com) – my digital portfolio and website.
+
+---
+
+## 📚 Education
+
+- **University of London**  
+  _BSc in Computer Science, Specialism in AI & ML_
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tom%20Parrott-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/tomparrott/)
+
+---
+
+## 💡 Fun Fact
+
+I enjoy collaborating on open-source projects, exploring new technologies, and connecting with fellow developers. If you have an idea, project, or opportunity—let’s chat!
+
+---
+
+> _"Always looking for opportunities for enrichment."_

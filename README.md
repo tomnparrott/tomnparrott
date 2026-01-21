@@ -17,10 +17,7 @@ Computer Science student at the University of London, specializing in **Artifici
 
 ## 🌱 Currently Working On
 
-- **Bloomble:** My favorite project, combining my passion for AI/ML with full-stack development.
-- [Wedding Website](https://github.com/tomnparrott/weddingwebsite) – a personal project for a special occasion.
 - [TutorBloom](https://github.com/tomnparrott/tutorbloom) – an educational platform.
-- [ParrottDigital.com](https://github.com/tomnparrott/parrottdigital.com) – my digital portfolio and website.
 
 ---
 
